@@ -1,4 +1,4 @@
-##Hey there, I'm Ryan. 👋
+## Hey there, I'm Ryan. 👋
 
 ---
 
@@ -6,13 +6,13 @@
 
 Feel free to contact me at `ryanbcwang@gmail.com` or `Ry4nW#7695` on Discord.
 
-###Current Interests
+### Current Interests
 
 ---
 - Web development - [`Homepage`](https://github.com/Ry4nW/homepage), [`TypeNext`](https://github.com/Ry4nW/TypeNext)
 - Algorithms and Data Structures - [`python-wars`](https://github.com/Ry4nW/python-wars)
 
-###Stats
+### Stats
 
 ---
 
