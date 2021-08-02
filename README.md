@@ -1,16 +1,23 @@
-### Hi there 👋
+##Hey there, I'm Ryan. 👋
 
-<!--
-**Ry4nW/Ry4nW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> Student, tech enthusiast, passionate programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me at `ryanbcwang@gmail.com` or `Ry4nW#7695` on Discord.
+###Current Interests
+
+---
+- Web development - [`Homepage`](https://github.com/Ry4nW/homepage), [`TypeNext`](https://github.com/Ry4nW/TypeNext)
+- Algorithms and Data Structures - [`python-wars`](https://github.com/Ry4nW/python-wars)
+
+###Stats
+
+---
+[![Ry4nW's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry4nW&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry4nW&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
