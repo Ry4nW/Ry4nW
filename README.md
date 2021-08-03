@@ -1,6 +1,6 @@
 # Hey there, I'm Ryan. 👋
 
-> Student, tech enthusiast, passionate programmer.
+> ###Student, tech enthusiast, and passionate programmer.
 
 Feel free to contact me at `ryanbcwang@gmail.com` or `Ry4nW#7695` on Discord.
 
