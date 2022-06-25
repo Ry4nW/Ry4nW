@@ -4,13 +4,12 @@
 
 Feel free to contact me at `ryanbcwang@gmail.com` or `Ry4nW#7695` on Discord.
 
-## Current Interests
+## General Interests
 
 
-- Algorithms and data structures
-- Competitive programming 
-- Game development
-- AI with image recognition 
+- Web development
+- Data scraping
+- Cryptography
 
 ---
 
